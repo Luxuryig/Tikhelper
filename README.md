@@ -100,10 +100,3 @@ tikhelper.region("mrbeast")
 }
 ```
 
-## CLI
-
-```bash
-tikhelper profile mrbeast
-tikhelper videos mrbeast
-tikhelper region mrbeast
-```
