@@ -1,0 +1,2 @@
+tiktok-forge>=1.1.0
+curl_cffi>=0.7.0
